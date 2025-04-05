@@ -32,7 +32,7 @@ body {
 
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                url('./images/lab-background.jpg') center/cover no-repeat;
+                url('lab-background.jpg') center/cover no-repeat;
     color: white;
     flex: 1;
     display: flex;
